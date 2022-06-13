@@ -21,8 +21,8 @@ Recomendo que você não precisa seguir a risca essa ordem de estudos, mas procu
 - [Dicas do Fábio Akita](https://www.youtube.com/watch?v=OkboNGQ9LU0) 
 
 **Ferramentas**
-- [Aprenda leitura e escrita Duolingo](https://pt.duolingo.com/)
-- [Learn English with EnglishClass101.com](https://youtube.com/playlist?list=PL5bLw9Uguvv3kSpd1tM79vb0DGAG67dab)
+<del>- [Aprenda leitura e escrita Duolingo](https://pt.duolingo.com/)
+- [Learn English with EnglishClass101.com](https://youtube.com/playlist?list=PL5bLw9Uguvv3kSpd1tM79vb0DGAG67dab)<del>
 
 ---
 
